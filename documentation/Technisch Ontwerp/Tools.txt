@@ -1,0 +1,23 @@
+Tools die wij gaan gebruiken:
+
+Laravel
+PHP
+Materialize
+Javascript
+HTML
+CSS
+Git
+Trello
+MySQL
+
+
+Laravel - een MVC framework gemaakt voor PHP waarmee we het MVC model kunnen toepassen.
+PHP - Onze back-end programmeertaal waarmee we alles besturen; De database, het MVC model en logica zijn voorbeelden hiervan.
+Materialize - Een framework waarmee we de site makkelijker op kunnen maken. Ook erg handig om de site responsive te maken. Gebruikt Javascript en CSS.
+Javascript - Programmeertaal om de browser interactief te maken zonder de pagina steeds te hoeven verversen.
+HTML - Basisstructuur van de pagina's van de website. Een soort wireframe hoe de pagina's worden opgezet.
+CSS - Programmeertaal om de site op te maken.
+GIT - Git gebruiken wij voor onze versiebeheer. Specifiek gebruiken wij de website https://www.github.com die het GIT systeem host zodat wij er, zolang we internet hebben, er altijd bij kunnen indien nodig.
+Trello - Een online Scrum omgeving.
+MySQL - Onze type database. Dit type database wordt het meest gebruikt in combinatie met websites. Daarnaast zijn wij MySQL het meest gewend waardoor we comfortabeler de database kunnen beheren.
+

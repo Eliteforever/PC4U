@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="12.240698mm"
+   height="2.5635478mm"
+   viewBox="0 0 55.562492 78.581247"
+   version="1.1"
+   id="svg8"
+   class="logoSVG">
+	<defs>
+		<style type="text/css">
+			@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+		</style>
+	</defs>
+	<metadata
+	 id="metadata5">
+		<rdf:RDF>
+		  <cc:Work
+			 rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type
+			   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title></dc:title>
+		  </cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g
+	 transform="matrix(8.1102679,0,0,8.1100802,-129.17443,-2330.1125)"
+	 id="layer1"
+	 style="font-style:normal;font-weight:normal;line-height:1.25;font-family:'Source Sans Pro', sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;fill-opacity:1;stroke-width:0.27385864;">
+		<text
+		   xml:space="preserve"
+		   style="fill:#EEEEEE; font-size:9.58333302px;"
+		   x="-18.772909"
+		   y="305.05273"
+		   id="text817"
+		   transform="scale(-1.0350563,0.96613102)"><tspan
+			 id="tspan815"
+			 x="-18.772909"
+			 y="305.05273">c4u</tspan></text>
+		<text
+		   xml:space="preserve"
+		   style="fill:#000000; font-size:10.58333302px;"
+		   x="18.665428"
+		   y="295.81924"
+		   id="text821"><tspan
+			 id="tspan819"
+			 x="18.665428"
+			 y="295.81924">pc4u</tspan></text>
+	</g>
+</svg>

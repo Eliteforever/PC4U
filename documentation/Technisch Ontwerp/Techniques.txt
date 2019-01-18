@@ -1,0 +1,23 @@
+Technieken wat wij gaan gebruiken:
+
+Scrum
+Versiebeheer
+OOP
+MVC
+Responsive Design
+
+
+Scrum - Om in teamverband goed te kunnen samenwerken is er een techniek bedacht genaamd "Scrum". Dit zorgt ervoor dat de effectiviteit verhoogt en een optimale ROI (Return On Investment) bevorderd. Daarnaast heeft de opdrachtgever ook meer overzicht hoe het project zich voortbrengt.
+Tools waarmee we Scrum toepassen: Trello
+
+Versiebeheer - Om met meerdere mensen aan 1 product te werken is er ook versiebeheer nodig. Dit zorgt ervoor dat wij met veranderingen in bestanden niet elkaar in de weg lopen. Daarnaast is versiebeheer ook heel handig als back-up: Elke verandering wordt opgeslagen waardoor je ook terug in de tijd kan. Is alles opeens kapot? Paar stappen terug en het werkt weer!
+Tools waarmee we versiebeheer toepassen: Git
+
+OOP - OOP (Object Oriented Programming) is een techniek specifiek voor het programmeren van het project. OOP zorgt voor een structuur in de code die wij maken. Omdat de code steeds meer en meer wordt, is het noodzakelijk dat er structuur in de code komt. Ook voorkomt dit redundantie, waardoor de code minder snel groeit na mate het project groeit.
+Tools waarmee we OOP toepassen: OOP creeer je met code, waardoor het niet fisiek een "tool" is. Het is meer een "afspraak".
+
+MVC - afkorting voor Model View Controller is een ontwerppatroon dat de code van een project opsplitst in drie verschillende maar afhankelijke onderdelen opsplitst. Hierdoor wordt de data, presentatie van de data en logica gescheiden gehouden, wat enorm veel overzicht biedt op de totale code van het project. Samen met OOP is dit een krachtige combinatie.
+Tools waarmee we MVC toepassen: Laravel
+
+Responsive Design - Dit betekend dat de site goed toegankelijk is voor de 3 belangrijkste scherm types: Monitoren, tablets en mobiele telefoons. Omdat ze allemaal andere afmetingen hebben is het goed om hier rekening te houden in de design van het product.
+Tools waarmee we Responsive Design toepassen: Materialize
